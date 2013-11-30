@@ -2,6 +2,13 @@
 
 using namespace std;
 
+void print() {
+    for (int i = 0; i < 10; i++)
+        cout << "Hello world" << endl;
+    return 0;
+}
+
+
 
 int main(int argc, char** argv) {
     int flag = 1;
