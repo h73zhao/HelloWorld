@@ -2,14 +2,7 @@
 
 using namespace std;
 
-void print() {
-    for (int i = 0; i < 10; i++)
-        cout << "Hello world" << endl;
-    return 0;
-}
-
-
-
+this is Han Zhao
 int main(int argc, char** argv) {
     int flag = 1;
     cout << "This is in trail branch..." << endl;
